@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20I'm%20Devadharshini!&fontSize=40&fontColor=ffffff" />
-</p>
+<h1 align="center">Hi, I'm Devadharshini</h1>
 
 <!-- Intro -->
 <h3 align="center">🚀 Full Stack Java Developer | 🌱 Beginner & Learner | 💻 Passionate Coder</h3>
@@ -47,12 +44,12 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [devadharshini616@gmail.com](mailto:your-email@example.com)  
 - 🌐 Portfolio: *Coming soon...*
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding+.+.+." alt="Typing SVG" />
 </p>
 
